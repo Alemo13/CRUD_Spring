@@ -8,13 +8,14 @@ public class HomeController {
 
     @SpringBootApplication
     public class DemoApplication {
+    
+    // private static class Control {
+    //     public static void main(String[] args) {
 
-    public static void main(String[] args) {
+    //         ConfigurableApplicationContext c = SpringApplication.run(DemoApplication.class, args);
 
-        ConfigurableApplicationContext c = SpringApplication.run(DemoApplication.class, args);
-
-        System.out.println("Welcome to Spring Boot");
-    }
-
+    //         System.out.println("Welcome to Spring Boot");
+    //     }
+    // }
 }
 }
