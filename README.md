@@ -1,5 +1,9 @@
 # CRUD_Spring
 
+Integrantes:
+Christian Alejandro Rengifo Mejia 
+Jorge Julian Garcia Hernandez
+
 Se hicieron pruebas con Thunder
 Para recibir la solicitud se envian fragmentos json como el siguiente:
 
